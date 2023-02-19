@@ -16,7 +16,7 @@ use PHPUnit\TextUI\XmlConfiguration\Group;
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('welcome');
 });
 
 // Sample
